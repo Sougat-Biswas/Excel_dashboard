@@ -18,7 +18,7 @@ Contribution from online platforms like Amazon, Flipkart, Myntra, Meesho, Ajio, 
 ### Category Filters:
 Interactive slicers for product categories and months to drill down into sales patterns.
 Technologies Used
-** Microsoft Excel**: Primary tool for data modeling, pivot charts, and interactive dashboard creation.
+**Microsoft Excel**: Primary tool for data modeling, pivot charts, and interactive dashboard creation.
 Pivot Tables & Charts: Used for summarizing and visualizing sales performance.
 Slicers: Enable dynamic filtering by product category, sales channel, and month.
 Data Source: Vrinda Store’s sales transaction dataset for the year 2022.
