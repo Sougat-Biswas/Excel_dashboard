@@ -22,11 +22,13 @@ Technologies Used
 **Microsoft Excel**:
 Primary tool for data modeling, pivot charts, and interactive dashboard creation.
 Pivot Tables & Charts: Used for summarizing and visualizing sales performance.
+
 **Slicers**:
 Enable dynamic filtering by product category, sales channel, and month.
 Data Source: Vrinda Store’s sales transaction dataset for the year 2022.
 Contributing
 This project is a personal portfolio piece and is not open for contributions. However, I welcome feedback and suggestions! Feel free to open an issue to discuss.
+
 **License**
 
 This project is not licensed for public use. It is intended as a portfolio piece.
