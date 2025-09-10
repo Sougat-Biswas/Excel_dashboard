@@ -1,6 +1,6 @@
 ## Vrinda Store Annual Report 2022
 ### An interactive Excel dashboard that analyzes Vrinda Store’s sales performance for the year 2022. This project leverages Excel’s data visualization, pivot tables, and slicers to provide key business insights across customers, products, and channels.
-Features
+### Features
 ### Key Performance Indicators (KPIs):
 At-a-glance metrics for Orders, Sales, Delivery Status, and Gender-based performance.
 ### Orders vs. Sales Analysis:
